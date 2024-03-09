@@ -558,5 +558,20 @@
     "id": 113,
     "name": "npc_dota_hero_arc_warden",
     "localized_name": "Arc Warden"
-  }
+  },
+  {
+    "id": 136,
+    "name": "npc_dota_hero_marci",
+    "localized_name": "Marci"
+  },
+  {
+    "id": 137,
+    "name": "npc_dota_hero_primal_beast",
+    "localized_name": "Primal Beast"
+  },
+  {
+    "id": 138,
+    "name": "npc_dota_hero_muerta",
+    "localized_name": "Muerta"
+  },
 ]
